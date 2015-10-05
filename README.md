@@ -28,8 +28,8 @@ If no directory is given it will default to the current working directory. The o
   - Specify export directory `-e|--export-path`
   - Recursive directory export `-r|--recursive`
   - PDF export `--pdf`
-- Better control over which svgs in a folder to export, via picking from numbered list.
 - Option to export via JSON definition file
+- Better control over which svgs in a folder to export, via picking from numbered list.
 ```
 SVG files to export:
 1- graphicA.svg
